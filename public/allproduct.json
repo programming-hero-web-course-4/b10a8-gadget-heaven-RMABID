@@ -1,0 +1,471 @@
+[
+  {
+    "product_id": "1",
+    "product_title": "Apple MacBook Air M2",
+    "product_image": "https://i.imghippo.com/files/HrrN2985w.jpeg",
+    "category": "MacBooks",
+    "price": 999.99,
+    "description": "Lightweight laptop with M2 chip for fast performance.",
+    "specifications": [
+      {
+        "product_info": "M2 chip",
+        "configuration_info": "8GB RAM, 256GB SSD",
+        "display_info": "13.6-inch Retina display"
+      }
+    ],
+    "availability": false,
+    "rating": 4.8,
+    "Other_field": "Fanless design"
+  },
+  {
+    "product_id": "2",
+    "product_title": "MacBook Pro 14 M1",
+    "product_image": "https://i.imghippo.com/files/QSH3972Ys.jpeg",
+    "category": "MacBooks",
+    "price": 1999.99,
+    "description": "Professional-grade laptop with M1 Pro chip.",
+    "specifications": [
+      {
+        "product_info": "M1 Pro chip",
+        "configuration_info": "16GB RAM, 512GB SSD",
+        "display_info": "14-inch Liquid Retina XDR"
+      }
+    ],
+    "availability": false,
+    "rating": 4.9,
+    "Other_field": "Stellar battery life"
+  },
+  {
+    "product_id": "3",
+    "product_title": "Samsung Galaxy Watch 5",
+    "product_image": "https://i.imghippo.com/files/jG6643H.jpeg",
+    "category": "Smart Watches",
+    "price": 299.99,
+    "description": "Smartwatch with health monitoring features.",
+    "specifications": [
+      {
+        "product_info": "Super AMOLED display",
+        "battery_info": "40 hours battery life",
+        "features_info": "Blood pressure monitor"
+      }
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "Other_field": "Water resistant"
+  },
+  {
+    "product_id": "4",
+    "product_title": "Garmin Venu 2",
+    "product_image": "https://i.imghippo.com/files/sSFZ6881eSM.jpeg",
+    "category": "Smart Watches",
+    "price": 399.99,
+    "description": "GPS smartwatch with fitness tracking.",
+    "specifications": [
+      {
+        "product_info": "AMOLED display",
+        "battery_info": "11 days battery life",
+        "features_info": "Advanced health metrics"
+      }
+    ],
+    "availability": false,
+    "rating": 4.8,
+    "Other_field": "Customizable watch faces"
+  },
+  {
+    "product_id": "5",
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://i.imghippo.com/files/xRm1392Dq.jpeg",
+    "category": "Smart Watches",
+    "price": 399.99,
+    "description": "Smartwatch with advanced health tracking.",
+    "specifications": [
+      {
+        "product_info": "Always-On display",
+        "battery_info": "18 hours battery life",
+        "features_info": "ECG and Blood Oxygen"
+      }
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "Other_field": "Durable design"
+  },
+  {
+    "product_id": "6",
+    "product_title": "Asus ZenBook 14",
+    "product_image": "https://i.imghippo.com/files/vMEf8466ZAI.jpeg",
+    "category": "Laptops",
+    "price": 1299.99,
+    "description": "Sleek laptop with powerful performance.",
+    "specifications": [
+      {
+        "product_info": "Intel Core i7",
+        "configuration_info": "16GB RAM, 512GB SSD",
+        "display_info": "14-inch FHD"
+      }
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "Other_field": "Lightweight and portable"
+  },
+  {
+    "product_id": "7",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.imghippo.com/files/ebey1647OME.jpeg",
+    "category": "Laptops",
+    "price": 1599.99,
+    "description": "Business laptop with exceptional performance.",
+    "specifications": [
+      {
+        "product_info": "Intel Core i7",
+        "configuration_info": "16GB RAM, 1TB SSD",
+        "display_info": "14-inch UHD"
+      }
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "Other_field": "Durable design"
+  },
+  {
+    "product_id": "8",
+    "product_title": "Dell Inspiron 15",
+    "product_image": "https://i.imghippo.com/files/CUSO6836AW.jpeg",
+    "category": "Laptops",
+    "price": 699.99,
+    "description": "Versatile laptop for everyday use.",
+    "specifications": [
+      {
+        "product_info": "Intel Core i5",
+        "configuration_info": "8GB RAM, 256GB SSD",
+        "display_info": "15.6-inch FHD"
+      }
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "Other_field": "Affordable and reliable"
+  },
+  {
+    "product_id": "9",
+    "product_title": "Fitbit Versa 3",
+    "product_image": "https://i.imghippo.com/files/upn4898eZg.jpeg",
+    "category": "Smart Watches",
+    "price": 229.99,
+    "description": "Smartwatch with fitness and health tracking.",
+    "specifications": [
+      {
+        "product_info": "AMOLED display",
+        "battery_info": "6 days battery life",
+        "features_info": "Built-in GPS"
+      }
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "Other_field": "Voice assistant integration"
+  },
+  {
+    "product_id": "10",
+    "product_title": "Fossil Gen 6 Smartwatch",
+    "product_image": "https://i.imghippo.com/files/oRs9946TVQ.jpeg",
+    "category": "Smart Watches",
+    "price": 299.99,
+    "description": "Stylish smartwatch with Wear OS.",
+    "specifications": [
+      {
+        "product_info": "Qualcomm Snapdragon Wear 4100+",
+        "battery_info": "24 hours battery life",
+        "features_info": "Heart rate monitoring"
+      }
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "Other_field": "Customizable straps"
+  },
+  {
+    "product_id": "11",
+    "product_title": "Razer Blade Stealth 13",
+    "product_image": "https://i.imghippo.com/files/eEz8204FU.jpeg",
+    "category": "Laptops",
+    "price": 1699.99,
+    "description": "Ultraportable gaming laptop.",
+    "specifications": [
+      {
+        "product_info": "Intel Core i7",
+        "configuration_info": "16GB RAM, 512GB SSD",
+        "graphics_info": "NVIDIA GeForce GTX 1650"
+      }
+    ],
+    "availability": false,
+    "rating": 4.8,
+    "Other_field": "Chroma RGB keyboard"
+  },
+  {
+    "product_id": "12",
+    "product_title": "Microsoft Surface Laptop 4",
+    "product_image": "https://i.imghippo.com/files/eEz8204FU.jpeg",
+    "category": "Laptops",
+    "price": 1399.99,
+    "description": "Sleek laptop with high-resolution display.",
+    "specifications": [
+      {
+        "product_info": "Intel Core i5",
+        "configuration_info": "8GB RAM, 512GB SSD",
+        "display_info": "13.5-inch PixelSense"
+      }
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "Other_field": "Lightweight and elegant design"
+  },
+  {
+    "product_id": "13",
+    "product_title": "Withings Steel HR",
+    "product_image": "https://i.imghippo.com/files/MdTn7684LY.jpeg",
+    "category": "Smart Watches",
+    "price": 199.99,
+    "description": "Hybrid smartwatch with activity tracking.",
+    "specifications": [
+      {
+        "product_info": "Analog watch face",
+        "battery_info": "25 days battery life",
+        "features_info": "Heart rate monitoring"
+      }
+    ],
+    "availability": false,
+    "rating": 4.5,
+    "Other_field": "Stylish and discreet"
+  },
+  {
+    "product_id": "14",
+    "product_title": "Acer Swift 3",
+    "product_image": "https://i.imghippo.com/files/Uuf8590WXM.jpeg",
+    "category": "Laptops",
+    "price": 899.99,
+    "description": "Ultra-lightweight laptop with solid performance.",
+    "specifications": [
+      {
+        "product_info": "AMD Ryzen 7",
+        "configuration_info": "8GB RAM, 512GB SSD",
+        "display_info": "14-inch FHD"
+      }
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "Other_field": "Fast charging"
+  },
+  {
+    "product_id": "15",
+    "product_title": "Oculus Quest 2",
+    "product_image": "https://i.imghippo.com/files/RNX1223QxU.jpeg",
+    "category": "Accessories",
+    "price": 299.99,
+    "description": "All-in-one VR headset for immersive experiences.",
+    "specifications": [
+      {
+        "product_info": "Qualcomm Snapdragon XR2",
+        "storage_info": "64GB or 256GB",
+        "features_info": "Wireless capabilities"
+      }
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "Other_field": "Supports a wide range of games"
+  },
+  {
+    "product_id": "16",
+    "product_title": "Anker USB-C Hub",
+    "product_image": "https://i.imghippo.com/files/JBgF8049rk.jpeg",
+    "category": "Accessories",
+    "price": 49.99,
+    "description": "Multi-port USB-C hub for laptops.",
+    "specifications": [
+      {
+        "product_info": "4 USB 3.0 ports",
+        "features_info": "HDMI output",
+        "compatibility_info": "Compatible with Mac and Windows"
+      }
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "Other_field": "Compact design"
+  },
+  {
+    "product_id": "17",
+    "product_title": "Logitech MX Master 3",
+    "product_image": "https://i.imghippo.com/files/KW3294eAk.jpeg",
+    "category": "Accessories",
+    "price": 99.99,
+    "description": "Ergonomic wireless mouse with customizable buttons.",
+    "specifications": [
+      {
+        "product_info": "Bluetooth and USB receiver",
+        "battery_info": "70 days battery life",
+        "features_info": "MagSpeed scroll wheel"
+      }
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "Other_field": "Excellent for productivity"
+  },
+  {
+    "product_id": "18",
+    "product_title": "Apple Magic Keyboard",
+    "product_image": "https://i.imghippo.com/files/KW3294eAk.jpeg",
+    "category": "Accessories",
+    "price": 99.99,
+    "description": "Wireless keyboard with a sleek design.",
+    "specifications": [
+      {
+        "product_info": "Built-in rechargeable battery",
+        "connection_info": "Bluetooth",
+        "features_info": "Low-profile keys"
+      }
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "Other_field": "Great for MacBooks"
+  },
+
+  {
+    "product_id": "19",
+    "product_title": "MacBook Air M1",
+    "product_image": "https://example.com/images/macbook_air_m1.jpg",
+    "category": "MacBooks",
+    "price": 999.99,
+    "description": "The lightweight and powerful MacBook Air with M1 chip.",
+    "specifications": [
+      {
+        "product_info": "Apple M1 chip",
+        "configuration_info": "8GB RAM, 256GB SSD",
+        "display_info": "13.3-inch Retina display"
+      }
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "Other_field": "Fanless design"
+  },
+  {
+    "product_id": "20",
+    "product_title": "MacBook Pro 16 M1",
+    "product_image": "https://example.com/images/macbook_pro_16.jpg",
+    "category": "MacBooks",
+    "price": 2499.99,
+    "description": "High-performance MacBook Pro with M1 chip for professionals.",
+    "specifications": [
+      {
+        "product_info": "Apple M1 Pro chip",
+        "configuration_info": "16GB RAM, 1TB SSD",
+        "display_info": "16-inch Liquid Retina XDR"
+      }
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "Other_field": "Exceptional battery life"
+  },
+  {
+    "product_id": "21",
+    "product_title": "MacBook Air 2020",
+    "product_image": "https://example.com/images/macbook_air_2020.jpg",
+    "category": "MacBook",
+    "price": 899.99,
+    "description": "2020 version of the MacBook Air with improved performance.",
+    "specifications": [
+      {
+        "product_info": "Intel Core i3",
+        "configuration_info": "8GB RAM, 256GB SSD",
+        "display_info": "13.3-inch Retina display"
+      }
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "Other_field": "Ultra-thin design"
+  },
+  {
+    "product_id": "22",
+    "product_title": "MacBook Pro 13 M2",
+    "product_image": "https://example.com/images/macbook_pro_13_m2.jpg",
+    "category": "MacBook",
+    "price": 1299.99,
+    "description": "Powerful MacBook Pro with M2 chip for creative professionals.",
+    "specifications": [
+      {
+        "product_info": "Apple M2 chip",
+        "configuration_info": "8GB RAM, 256GB SSD",
+        "display_info": "13.3-inch Retina display"
+      }
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "Other_field": "Super fast performance"
+  },
+  {
+    "product_id": "23",
+    "product_title": "iPhone 14",
+    "product_image": "https://i.imghippo.com/files/MBPZ4372SZU.jpeg",
+    "category": "Iphone",
+    "price": 799.99,
+    "description": "The latest iPhone with an advanced camera system and impressive performance.",
+    "specifications": [
+      {
+        "product_info": "A15 Bionic chip",
+        "configuration_info": "128GB storage",
+        "display_info": "6.1-inch Super Retina XDR display"
+      }
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "Other_field": "5G capable"
+  },
+  {
+    "product_id": "24",
+    "product_title": "iPhone 14 Pro Max",
+    "product_image": "https://i.imghippo.com/files/qmo8907foM.jpeg",
+    "category": "Iphone",
+    "price": 1099.99,
+    "description": "Premium iPhone with Pro camera system and ProMotion display.",
+    "specifications": [
+      {
+        "product_info": "A16 Bionic chip",
+        "configuration_info": "256GB storage",
+        "display_info": "6.7-inch Super Retina XDR display"
+      }
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "Other_field": "Exceptional battery life"
+  },
+  {
+    "product_id": "25",
+    "product_title": "iPhone SE (3rd Gen)",
+    "product_image": "https://i.imghippo.com/files/qmo8907foM.jpeg",
+    "category": "Iphone",
+    "price": 429.99,
+    "description": "Compact iPhone with powerful performance in a classic design.",
+    "specifications": [
+      {
+        "product_info": "A15 Bionic chip",
+        "configuration_info": "64GB storage",
+        "display_info": "4.7-inch Retina HD display"
+      }
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "Other_field": "Budget-friendly option"
+  },
+  {
+    "product_id": "26",
+    "product_title": "iPhone 13 Mini",
+    "product_image": "https://i.imghippo.com/files/MBPZ4372SZU.jpeg",
+    "category": "Iphone",
+    "price": 699.99,
+    "description": "Compact and powerful, perfect for users who prefer smaller devices.",
+    "specifications": [
+      {
+        "product_info": "A15 Bionic chip",
+        "configuration_info": "128GB storage",
+        "display_info": "5.4-inch Super Retina XDR display"
+      }
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "Other_field": "Lightweight design"
+  }
+]

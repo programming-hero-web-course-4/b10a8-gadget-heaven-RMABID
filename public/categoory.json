@@ -1,0 +1,34 @@
+[
+  {
+    "product_id": "1",
+    "category": "Laptops",
+    "slug": "ultrabook-pro-15"
+  },
+  {
+    "product_id": "2",
+    "category": "Phones",
+    "slug": "elite-phone-12"
+  },
+  {
+    "product_id": "3",
+    "category": "Smart Watches",
+    "slug": "smartwatch-pro"
+  },
+  {
+    "product_id": "4",
+    "category": "MacBooks",
+    "slug": "macbook-air-m2"
+  },
+  {
+    "product_id": "5",
+    "category": "Accessories",
+    "slug": "wireless-charging-pad"
+  },
+  {
+    "product_id": "6",
+    "category": "Iphone",
+    "slug": "noise-cancelling-headphones"
+  }
+
+  
+]
