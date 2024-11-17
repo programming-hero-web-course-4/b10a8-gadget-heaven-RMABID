@@ -13,5 +13,5 @@ GadgetHeaven is a modern e-commerce platform that allows users to browse, add ga
 
 ## What to Submit
 
--  Private Github Repo Link : 
+-  Private Github Repo Link : https://github.com/programming-hero-web-course-4/b10a8-gadget-heaven-RMABID
 -  Live Link : https://amazing-cranachan-1a9fc3.netlify.app/
